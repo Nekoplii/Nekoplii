@@ -9,11 +9,8 @@ I am a developer who likes to create clean and efficient solutions. I focus on m
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Nekoplii&theme=dark&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nekoplii&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maplii) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maplii) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
