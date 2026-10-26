@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "login": "Nekoplii",
+  "seed": "#D64444",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "wave",
+    "stack",
+    "stats",
+    "projects",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "projects",
+    "streak",
+    "wave",
+    "stats",
+    "stack",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Yoo, I am",
+    "name": "Mafly",
+    "subtitle": "My word? umm.. Coding is easy until u stuck :3",
+    "typing": false,
+    "avatarShape": "pill",
+    "chips": []
+  },
+  "about": {
+    "title": "Who am I?",
+    "items": [
+      {
+        "icon": "code_xml",
+        "label": "Fullstack Dev"
+      },
+      {
+        "icon": "database",
+        "label": "DevOps"
+      },
+      {
+        "icon": "japanese_flag",
+        "label": "Japanophile"
+      },
+      {
+        "icon": "favorite",
+        "label": "Love Kato Megumi <3"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:youtubekids",
+        "url": "https://youtube.com/c/MaFly16"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discordapp.com/users/738213645233684571"
+      },
+      {
+        "icon": "brand:instagram",
+        "url": "https://www.instagram.com/maplii_/"
+      }
+    ],
+    "variant": "icon",
+    "fill": "filled",
+    "card": true,
+    "shape": "pill"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
